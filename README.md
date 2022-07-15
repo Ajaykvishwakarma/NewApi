@@ -7,4 +7,4 @@ Start Application
 
 -- npm start
 
-Application Run On:http://localhost:3000
+Application Run On : http://localhost:7000

@@ -12,6 +12,8 @@ Application Run On : http://localhost:7000
 
 # Using Rest API
 
+### Rest API :- https://warrantime.herokuapp.com
+
 GET Data :- https://warrantime.herokuapp.com/newses
 
 POST Data :- https://warrantime.herokuapp.com/news

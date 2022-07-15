@@ -1,2 +1,10 @@
 # NewApi
-Created an API using Express.JS
+## Install Packages
+
+-- npm install
+
+Start Application
+
+-- npm start
+
+Application Run On : http://localhost:7000
